@@ -1,1 +1,1 @@
-The front end react app with TypeScript and uses Clean Architecture principles for separation of concerns in both layers
+The front end react app using TypeScript and follows Clean Architecture principles. It's designed to be scalable, maintainable,
