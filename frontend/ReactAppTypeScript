@@ -1,1 +1,1 @@
-The front end consists of React + TypeScript for user interface and state management. It also uses Redux to manage the states in a more scalable way
+The front end react app with TypeScript and uses Clean Architecture principles for separation of concerns in both layers
